@@ -36,4 +36,4 @@ options = get_arguments()
 #use arguments from command line
 scan_result = scan(options.target)
 print_result(scan_result)
-#writen by Korestreet
+#writen by Snorlyd
